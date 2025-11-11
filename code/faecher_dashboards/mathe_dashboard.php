@@ -1,6 +1,36 @@
 <?php
-
-include "faecher.php";
+$faecher = [
+        [
+                "name" => "Mathe",
+                "bild" => "img/mathe.jpg",
+                "link" => "../faecher_dashboards/mathe_dashboard.html"
+        ],
+        [
+                "name" => "Deutsch",
+                "bild" => "img/deutsch.jpg",
+                "link" => "../faecher_dashboards/deutsch_dashboard.html"
+        ],
+        [
+                "name" => "Englisch",
+                "bild" => "img/englisch.jpg",
+                "link" => "../faecher_dashboards/englisch_dashboard.html"
+        ],
+        [
+                "name" => "Geschichte",
+                "bild" => "img/geschichte.jpg",
+                "link" => "../faecher_dashboards/geschichte_dashboard.html"
+        ],
+        [
+                "name" => "Biologie",
+                "bild" => "img/biologie.jpg",
+                "link" => "../faecher_dashboards/biologie_dashboard.html"
+        ],
+        [
+                "name" => "Musik",
+                "bild" => "img/musik.jpg",
+                "link" => "../faecher_dashboards/musik_dashboard.html"
+        ]
+];
 
 ?>
 
@@ -25,7 +55,7 @@ include "faecher.php";
     <div class="overlay" id="overlay" onclick="toggleSidebar()"></div>
     <div class="content">
         <h1>Willkommen auf der Lernwebseite des HSG-Gymnasiums! </h1>
-        <h2>Wähle ein Fach zum Anzeigen von Lerninhalten</h2>
+        <p>Klicke oben links auf ☰, um die Sidebar zu öffnen.</p>
     </div>
 
     <div class="fach-container">
@@ -34,7 +64,7 @@ include "faecher.php";
                 <a href="<?= $fach['link'] ?>">
                     <img src="<?= $fach['bild'] ?>" alt="<?= $fach['name'] ?>">
                 </a>
-                <a class="fach2" href="<?= $fach['link'] ?>"><?= $fach['name'] ?></a>
+                <p><?= $fach['name'] ?></p>
             </div>
         <?php endforeach; ?>
     </div>
@@ -48,6 +78,7 @@ include "faecher.php";
         sidebar.classList.toggle("active");
         overlay.classList.toggle("active");
     }
+
     function closeSidebar() {
         document.querySelectorAll('.sidebar a').forEach(link => {
             link.addEventListener('click', () => {
@@ -56,6 +87,9 @@ include "faecher.php";
             });
         });
     }
+
+
+
 </script>
 
 </html>
