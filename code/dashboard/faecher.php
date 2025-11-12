@@ -4,7 +4,7 @@ $faecher = [
     [
         "name" => "Mathematik",
         "bild" => "img/mathe.jpg",
-        "link" => "../faecher_dashboards/mathe_dashboard.php",
+        "link" => "../faecher_dashboards/mathe_dashboard/mathe_dashboard.php",
         "icon" => "fas fa-calculator"
     ],
     [
