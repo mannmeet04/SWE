@@ -10,7 +10,7 @@ $faecher = [
     [
         "name" => "Deutsch",
         "bild" => "img/deutsch.jpg",
-        "link" => "../faecher_dashboards/deutsch_dashboard.php",
+        "link" => "../faecher_dashboards/deutsch_dashboard/deutsch_dashboard.php",
         "icon" => "fas fa-book-open"
     ],
     [

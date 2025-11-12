@@ -4,7 +4,6 @@ include "unterthemen.php";
 include "faecher.php";
 
 ?>
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
