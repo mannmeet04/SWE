@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt">
-      <change beforePath="$PROJECT_DIR$/DashboardDesign.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/DashboardDesign.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Liste_Anforderungen.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/Liste_Anforderungen.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notizen.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/Notizen.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oberthema_Seite.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/Oberthema_Seite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Themenseite.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/Themenseite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User-Stories-neu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/User-Stories-neu.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User-Stories.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/User-Stories.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User_Stories.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/User_Stories.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/mobile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protokollantenliste.md" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/protokollantenliste.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themenseite_mobil.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/themenseite_mobil.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/faecher.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/faecher.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/faecher_dashboards/deutsch_dashboard/deutsch_dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/faecher_dashboards/deutsch_dashboard/deutsch_dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/faecher_dashboards/mathe_dashboard/mathe_dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/faecher_dashboards/mathe_dashboard/mathe_dashboard.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +50,7 @@
     &quot;second&quot;: &quot;972abb5f-622f-4241-af8c-12ff6a46f82b&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.4.13/bin/php" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>

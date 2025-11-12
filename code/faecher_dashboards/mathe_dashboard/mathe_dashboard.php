@@ -28,7 +28,7 @@ include "faecher.php";
 </header>
 <div class="sidebar" id="sidebar">
     <nav>
-        <a href="/code/dashboard/dashboard.php">
+        <a href="../../dashboard/dashboard.php">
             <i class="fas fa-home"></i>
             <span>Home</span>
         </a>

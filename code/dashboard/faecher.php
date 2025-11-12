@@ -1,5 +1,6 @@
 <?php
 
+
 $faecher = [
     [
         "name" => "Mathematik",
