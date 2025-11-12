@@ -1,5 +1,5 @@
 <?php
-
+global $faecher;
 include "faecher.php";
 ?>
 

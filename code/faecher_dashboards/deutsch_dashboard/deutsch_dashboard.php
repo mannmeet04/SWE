@@ -1,5 +1,6 @@
 <?php
 
+global $faecher;
 include "unterthemen.php";
 include "faecher.php";
 

@@ -1,9 +1,9 @@
 <?php
 
 global $faecher, $ut_mathe;
-// Lädt das Array $ut_mathe
+
 include "unterthemen.php";
-// Lädt das Array $faecher (für die Sidebar)
+
 include "faecher.php";
 
 ?>
