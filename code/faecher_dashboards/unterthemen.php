@@ -2,34 +2,34 @@
 
 $ut_mathe = [
     [
-        "name" => "Addition",
-        "bild" => "img/mathe.jpg",
-        "link" => "../faecher_dashboards/mathe_dashboard.php"
+        "name" => "Zahlen und Rechnen",
+        "bild" => "img/zahlen_rechnen.jpg",
+        "link" => "../faecher_dashboards/zahlen_und_rechnen.php",
     ],
     [
-        "name" => "Subtraktion",
-        "bild" => "img/deutsch.jpg",
-        "link" => "../faecher_dashboards/deutsch_dashboard.html"
+        "name" => "Geometrie",
+        "bild" => "img/geometrie.jpg",
+        "link" => "../faecher_dashboards/geometrie.php",
     ],
     [
-        "name" => "Multiplikation",
-        "bild" => "img/englisch.jpg",
-        "link" => "../faecher_dashboards/englisch_dashboard.html"
+        "name" => "Daten und Zufall",
+        "bild" => "img/daten_zufall.jpg",
+        "link" => "../faecher_dashboards/daten_und_zufall.php",
     ],
     [
-        "name" => "Division",
-        "bild" => "img/geschichte.jpg",
-        "link" => "../faecher_dashboards/geschichte_dashboard.html"
+        "name" => "Größen und Messen",
+        "bild" => "img/groessen_messen.jpg",
+        "link" => "../faecher_dashboards/groessen_und_messen.php",
     ],
     [
-        "name" => "Beispiel",
-        "bild" => "img/biologie.jpg",
-        "link" => "../faecher_dashboards/biologie_dashboard.html"
+        "name" => "Denken und Problemlösen",
+        "bild" => "img/denken_problemloesen.jpg",
+        "link" => "../faecher_dashboards/denken_und_problemloesen.php",
     ],
     [
-        "name" => "Beispiel",
+        "name" => "Platzhalter",
         "bild" => "img/musik.jpg",
-        "link" => "../faecher_dashboards/musik_dashboard.html"
+        "link" => "../faecher_dashboards/platzhalter.php",
     ]
 ];
 
