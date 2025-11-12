@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Themenseite Deutsch</title>
 
-    <link rel="stylesheet" href="../dashboard/style.css">
+    <link rel="stylesheet" href="../../dashboard/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <style>
@@ -145,10 +145,10 @@ $active_tab = isset($_GET['tab']) ? $_GET['tab'] : 'erklaerung';
 <div class="sidebar" id="sidebar">
     <a href="#" class="close-btn">&times;</a>
     <nav>
-        <a href="../dashboard/dashboard.php"><i class="fa-solid fa-house"></i><span>Dashboard</span></a>
-        <a href="../dashboard/dashboard.php"><i class="fa-solid fa-book"></i><span>Fächer</span></a>
-        <a href="../dashboard/dashboard.php"><i class="fa-solid fa-star"></i><span>Favoriten</span></a>
-        <a href="../dashboard/dashboard.php"><i class="fa-solid fa-gear"></i><span>Einstellungen</span></a>
+        <a href="../../dashboard/dashboard.php"><i class="fa-solid fa-house"></i><span>Dashboard</span></a>
+        <a href="../../dashboard/dashboard.php"><i class="fa-solid fa-book"></i><span>Fächer</span></a>
+        <a href="../../dashboard/dashboard.php"><i class="fa-solid fa-star"></i><span>Favoriten</span></a>
+        <a href="../../dashboard/dashboard.php"><i class="fa-solid fa-gear"></i><span>Einstellungen</span></a>
     </nav>
 </div>
 
@@ -156,8 +156,8 @@ $active_tab = isset($_GET['tab']) ? $_GET['tab'] : 'erklaerung';
 
 <header>
     <a href="#sidebar" class="menu-btn">☰</a>
-    <a href="../dashboard/dashboard.php" class="logo-btn">
-        <img src="../dashboard/img/logo.png" alt="Logo">
+    <a href="../../dashboard/dashboard.php" class="logo-btn">
+        <img src="../../dashboard/img/logo.png" alt="Logo">
     </a>
     <span>Deutsch – Wortarten</span>
 </header>
