@@ -165,7 +165,7 @@ $active_tab = isset($_GET['tab']) ? $_GET['tab'] : 'erklaerung';
 <!-- Inhalt -->
 <main class="content">
 
-    <!-- Toggle-Bar -->
+    <!-- Toggle_Bar -->
     <div class="toggle-bar">
         <a href="?tab=erklaerung" class="toggle-option <?php echo $active_tab == 'erklaerung' ? 'active' : ''; ?>">
             <i class="fa-solid fa-book-open"></i> Erklärung
