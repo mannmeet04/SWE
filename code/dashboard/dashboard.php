@@ -8,7 +8,7 @@ include "faecher.php";
 <head>
     <meta charset="UTF-8">
     <title>Lernwebseite - Dashboard</title>
-    <link rel="stylesheet" href="/code/dashboard/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
@@ -24,7 +24,7 @@ include "faecher.php";
 
 <div class="sidebar" id="sidebar">
     <nav>
-        <a href="/code/dashboard/dashboard.php">
+        <a href="dashboard.php">
             <i class="fas fa-home"></i>
             <span>Home</span>
         </a>

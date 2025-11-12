@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt">
-      <change beforePath="$PROJECT_DIR$/code/dashboard/faecher.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/faecher.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/faecher_dashboards/deutsch_dashboard/deutsch_dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/faecher_dashboards/deutsch_dashboard/deutsch_dashboard.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/faecher_dashboards/mathe_dashboard/mathe_dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/faecher_dashboards/mathe_dashboard/mathe_dashboard.php" afterDir="false" />
+    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="verlinkung dashboard gefixt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/dashboard.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762974779783</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="verlinkung dashboard gefixt">
+      <option name="closed" value="true" />
+      <created>1762976051291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762976051291</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +208,8 @@
     <MESSAGE value="habe noch mal verlinkt und die leiste verändert. jedoch läuft die verlinkung nicht perfekt" />
     <MESSAGE value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert" />
     <MESSAGE value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt" />
-    <option name="LAST_COMMIT_MESSAGE" value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt" />
+    <MESSAGE value="verlinkung dashboard gefixt" />
+    <option name="LAST_COMMIT_MESSAGE" value="verlinkung dashboard gefixt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
