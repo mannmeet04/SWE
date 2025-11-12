@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert" />
+    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt">
+      <change beforePath="$PROJECT_DIR$/DashboardDesign.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/DashboardDesign.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Liste_Anforderungen.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/Liste_Anforderungen.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notizen.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/Notizen.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oberthema_Seite.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/Oberthema_Seite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Themenseite.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/Themenseite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-Stories-neu.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/User-Stories-neu.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User-Stories.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/User-Stories.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User_Stories.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/User_Stories.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/mobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protokollantenliste.md" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/protokollantenliste.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themenseite_mobil.png" beforeDir="false" afterPath="$PROJECT_DIR$/Plannung/themenseite_mobil.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +136,7 @@
       <workItem from="1762864882327" duration="710000" />
       <workItem from="1762865913084" duration="683000" />
       <workItem from="1762973173099" duration="1383000" />
+      <workItem from="1762974610493" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="Erster Push">
       <option name="closed" value="true" />
@@ -165,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762974466848</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt">
+      <option name="closed" value="true" />
+      <created>1762974779783</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762974779783</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +208,8 @@
     <MESSAGE value="mathe dashboard" />
     <MESSAGE value="habe noch mal verlinkt und die leiste verändert. jedoch läuft die verlinkung nicht perfekt" />
     <MESSAGE value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert" />
-    <option name="LAST_COMMIT_MESSAGE" value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert" />
+    <MESSAGE value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt" />
+    <option name="LAST_COMMIT_MESSAGE" value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
