@@ -22,6 +22,11 @@ include "faecher.php";
 
 <div class="sidebar" id="sidebar">
     <nav>
+
+        <a href="/code/dashboard/dashboard.php">
+            <i class="fas fa-home"></i>
+            <span>Home</span>
+        </a>
         <?php foreach ($faecher as $fach): ?>
             <a href="<?= $fach['link'] ?>">
                 <i class="<?= $fach['icon'] ?>"></i>
