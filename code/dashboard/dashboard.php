@@ -13,13 +13,13 @@ include "faecher.php";
 </head>
 <body>
 
-<a href="login.php" class="logo-placeholder">M</a>
-
+<!--<a href="login.php" class="logo-placeholder">M</a>-->
 <header>
     <button class="menu-btn logo-btn" onclick="toggleSidebar()">
         <img src="/code/dashboard/img/logo.png" alt="Logo">
     </button>
     <span>Mein Dashboard</span>
+    <button id="login">Login</button>
 </header>
 
 <div class="sidebar" id="sidebar">
@@ -28,11 +28,30 @@ include "faecher.php";
             <i class="fas fa-home"></i>
             <span>Home</span>
         </a>
-        <?php foreach ($faecher as $fach): ?>
-            <a href="<?= $fach['link'] ?>">
-                <i class="<?= $fach['icon'] ?>"></i>
-                <span><?= $fach['name'] ?></span> </a>
-        <?php endforeach; ?>
+
+            <?php foreach ($faecher as $fach): ?>
+                <?php if (isset($fach['subfaecher']) && count($fach['subfaecher']) > 0): ?>
+                    <div class="sidebar-dropdown">
+                        <a href="<?= $fach['link'] ?>" class="dropdown-toggle">
+                            <i class="<?= $fach['icon'] ?>"></i>
+                            <span><?= $fach['name'] ?> <i class="fas fa-chevron-down dropdown-icon"></i></span>
+                        </a>
+                        <div class="submenu">
+                            <?php foreach ($fach['subfaecher'] as $subfach): ?>
+                                <a href="<?= $subfach['link'] ?>">
+                                    <i class="<?= $subfach['icon'] ?>"></i>
+                                    <span><?= $subfach['name'] ?></span>
+                                </a>
+                            <?php endforeach; ?>
+                        </div>
+                    </div>
+                <?php else: ?>
+                    <a href="<?= $fach['link'] ?>">
+                        <i class="<?= $fach['icon'] ?>"></i>
+                        <span><?= $fach['name'] ?></span>
+                    </a>
+                <?php endif; ?>
+            <?php endforeach; ?>
     </nav>
 </div>
 
@@ -108,4 +127,9 @@ include "faecher.php";
         }
     });
 </script>
+
+<footer>
+    <div id = "imp">Impressum</div>
+    <div id = "bar">Barrierefreiheit</div>
+</footer>
 </html>

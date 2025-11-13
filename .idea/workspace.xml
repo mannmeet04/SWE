@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="verlinkung dashboard gefixt">
+    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="neuen ordner erstellt und sachen da rein geschoben">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/dashboard/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/faecher.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/faecher.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/faecher_dashboards/mathe_dashboard/unterthemen.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/unterthemen.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     &quot;second&quot;: &quot;972abb5f-622f-4241-af8c-12ff6a46f82b&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.4.13/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -70,7 +73,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;!1 on dev&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Zakar/Desktop/Uni/3.Semester/DBWT/gruppe-6a-1/code/faecher_dashboards/deutsch_dashboard/img&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
@@ -93,6 +96,7 @@
       <recent name="C:\Users\lk\PhpstormProjects\gruppe-6a-1\code\dashboard\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/dashboard" />
       <recent name="C:\Users\Zakar\Desktop\Uni\3.Semester\DBWT\gruppe-6a-1\code\faecher_dashboards\deutsch_dashboard" />
       <recent name="C:\Users\lk\PhpstormProjects\gruppe-6a-1\code\faecher_dashboards\mathe_dashboard" />
       <recent name="C:\Users\lk\PhpstormProjects\gruppe-6a-1\code\testdateien" />
@@ -128,6 +132,7 @@
       <workItem from="1762865913084" duration="683000" />
       <workItem from="1762973173099" duration="1383000" />
       <workItem from="1762974610493" duration="281000" />
+      <workItem from="1763032777981" duration="9797000" />
     </task>
     <task id="LOCAL-00001" summary="Erster Push">
       <option name="closed" value="true" />
