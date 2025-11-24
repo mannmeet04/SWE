@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="Alles Vereinheitlicht">
-      <change afterPath="$PROJECT_DIR$/code/dashboard/config/indo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/dashboard/pdf_dateien/Nachhilfematerial_fuer_fuenfte_Klasse_first_five.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/dashboard/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/dashboard/setup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/setup.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/dashboard/unterthema.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/unterthema.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +63,9 @@
     &quot;second&quot;: &quot;ab7e7fd4-3a08-4199-8eeb-54d7f967670d&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.4.14">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.4.13/bin/php">
     <include_path>
-      <path value="$USER_HOME$/Downloads/php-8.4.14-Win32-vs17-x64" />
+      <path value="$PROJECT_DIR$/../Downloads/php-8.4.14-Win32-vs17-x64" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -82,36 +79,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "PHP Built-in Web Server.Unnamed.executor": "Run",
-    "PHP Built-in Web Server.Webseite.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "7-ubungsblatter-viewer",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/braun/OneDrive - Fachhochschule Aachen/Studium/WS 25_26/SWE/Praktikum/GIT/gruppe-6a-1/code/dashboard/pdf_dateien",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;PHP Built-in Web Server.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Built-in Web Server.Webseite.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;7-ubungsblatter-viewer&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/braun/OneDrive - Fachhochschule Aachen/Studium/WS 25_26/SWE/Praktikum/GIT/gruppe-6a-1/code/dashboard/pdf_dateien&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mariadb"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\braun\OneDrive - Fachhochschule Aachen\Studium\WS 25_26\SWE\Praktikum\GIT\gruppe-6a-1\code\dashboard\pdf_dateien" />

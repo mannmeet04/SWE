@@ -507,7 +507,7 @@ header span {
 .submenu {
     max-height: 0;
     overflow: hidden;
-    transition: max-height 0.3s ease-out;
+    transition: max-height 1.0s ease-out;
     background-color: #2a3b4d;
     padding-left: 20px;
 }
