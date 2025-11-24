@@ -112,7 +112,7 @@ $conn = null;
             padding: 25px;
             margin-bottom: 20px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-            text-align: left;
+            text-align: center;
         }
 
         .uebung-grid {
@@ -135,6 +135,10 @@ $conn = null;
         .uebung-card:hover {
             transform: translateY(-5px);
             text-decoration: none;
+        }
+
+        .text_mittig {
+
         }
     </style>
 </head>
@@ -237,12 +241,22 @@ $conn = null;
                 <?php if ($inhalt['typ'] == 'uebung'): ?>
                     <div class="content-card">
                         <h2><?= htmlspecialchars($inhalt['titel']) ?></h2>
-                        <p><?= nl2br(htmlspecialchars($inhalt['inhalt'])) ?></p>
+                        <p class="text_mittig"><?= nl2br(htmlspecialchars($inhalt['inhalt'])) ?></p>
                         <div class="uebung-grid">
-                            <a class="uebung-card" href="#">
+                            <a class="uebung-card"
+                               href="<?= htmlspecialchars($inhalt['datei_pfad']) ?>"
+                               download>
                                 <i class="fa-solid fa-file-pdf" style="font-size: 2em; color: #e74c3c; margin-bottom: 10px;"></i>
                                 <div><strong>Übungsblatt</strong><br><small>PDF Download</small></div>
                             </a>
+                            <!-- BuiltIn PDF-Viewer -->
+                            <a class="uebung-card"
+                               href="<?= htmlspecialchars($inhalt['datei_pfad']) ?>"
+                               target="_blank">
+                                <i class="fa-solid fa-file-pdf" style="font-size: 2em; color: #e74c3c; margin-bottom: 10px;"></i>
+                                <div><strong>Übungsblatt</strong><br><small>PDF Ansicht</small></div>
+                            </a>
+
                         </div>
                     </div>
                 <?php endif; ?>

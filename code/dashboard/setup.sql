@@ -157,3 +157,7 @@ INSERT INTO lerninhalte (unterthema_id, titel, inhalt, typ, video_url, sort_orde
                                                                                        (12, 'Tiere einfach erklärt – Video',
                                                                                         'In diesem Video lernst du die wichtigsten Tiergruppen und ihre Lebensräume kennen.',
                                                                                         'video', 'https://www.youtube.com/embed/c56s0ezc8sg', 3);
+
+UPDATE lerninhalte
+SET datei_pfad = 'pdf_dateien/Nachhilfematerial_fuer_fuenfte_Klasse_first_five.pdf'
+WHERE id = 2;
