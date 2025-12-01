@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="Alles Vereinheitlicht">
+    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="geschwindigkeit von drop geändert">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/dashboard/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/dashboard/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
   <component name="GitLabMergeRequestsSettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;first&quot;: &quot;https://git.fh-aachen.de/se/praktikum/ws2526/gruppe-6a-1.git&quot;,
-    &quot;second&quot;: &quot;ab7e7fd4-3a08-4199-8eeb-54d7f967670d&quot;
+    &quot;second&quot;: &quot;972abb5f-622f-4241-af8c-12ff6a46f82b&quot;
   }
 }</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.4.13/bin/php">
@@ -132,8 +130,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.27397.112" />
-        <option value="bundled-php-predefined-a98d8de5180a-b35feea871ed-com.jetbrains.php.sharedIndexes-PS-252.27397.112" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
+        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
       </set>
     </attachedChunks>
   </component>
@@ -165,6 +163,9 @@
       <workItem from="1763632140424" duration="696000" />
       <workItem from="1763632901366" duration="302000" />
       <workItem from="1763970099301" duration="8914000" />
+      <workItem from="1764076103428" duration="235000" />
+      <workItem from="1764111077590" duration="9000" />
+      <workItem from="1764236535870" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="Erster Push">
       <option name="closed" value="true" />
@@ -230,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763233384598</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="geschwindigkeit von drop geändert">
+      <option name="closed" value="true" />
+      <created>1763990958526</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763990958526</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +264,8 @@
     <MESSAGE value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt" />
     <MESSAGE value="verlinkung dashboard gefixt" />
     <MESSAGE value="Alles Vereinheitlicht" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alles Vereinheitlicht" />
+    <MESSAGE value="geschwindigkeit von drop geändert" />
+    <option name="LAST_COMMIT_MESSAGE" value="geschwindigkeit von drop geändert" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
