@@ -1,0 +1,6 @@
+
+# Ignoriert den Ordner der Entwicklungsumgebung (z.B. PhpStorm/IntelliJ)
+.idea/
+
+# Ignoriert den buil-in server
+.run/

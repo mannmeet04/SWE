@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="geschwindigkeit von drop geändert">
+    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/config/database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="15-upload-formular" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,11 +59,12 @@
   <component name="GitLabMergeRequestsSettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;first&quot;: &quot;https://git.fh-aachen.de/se/praktikum/ws2526/gruppe-6a-1.git&quot;,
-    &quot;second&quot;: &quot;972abb5f-622f-4241-af8c-12ff6a46f82b&quot;
+    &quot;second&quot;: &quot;6471d495-3525-4154-a862-3084e9045638&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.4.13/bin/php">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
+      <path value="$PROJECT_DIR$/../Downloads/php-8.4.14-Win32-vs17-x64" />
       <path value="$PROJECT_DIR$/../Downloads/php-8.4.14-Win32-vs17-x64" />
     </include_path>
   </component>
@@ -71,6 +73,7 @@
 }</component>
   <component name="ProjectId" id="34Q8MGnWrjo5rOYvoweJcncqbaN" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -87,7 +90,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;7-ubungsblatter-viewer&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;10-login-fur-lehrer&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/braun/OneDrive - Fachhochschule Aachen/Studium/WS 25_26/SWE/Praktikum/GIT/gruppe-6a-1/code/dashboard/pdf_dateien&quot;,
@@ -116,6 +119,7 @@
       <recent name="C:\Users\Zakar\Desktop\Uni\3.Semester\DBWT\gruppe-6a-1\Plannung" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lk\PhpstormProjects\gruppe-6a-1\code\dashboard" />
       <recent name="$PROJECT_DIR$/code/dashboard" />
       <recent name="C:\Users\Zakar\Desktop\Uni\3.Semester\DBWT\gruppe-6a-1\code\faecher_dashboards\deutsch_dashboard" />
       <recent name="C:\Users\lk\PhpstormProjects\gruppe-6a-1\code\faecher_dashboards\mathe_dashboard" />
@@ -130,8 +134,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
-        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
+        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
       </set>
     </attachedChunks>
   </component>
@@ -163,9 +167,8 @@
       <workItem from="1763632140424" duration="696000" />
       <workItem from="1763632901366" duration="302000" />
       <workItem from="1763970099301" duration="8914000" />
-      <workItem from="1764076103428" duration="235000" />
-      <workItem from="1764111077590" duration="9000" />
-      <workItem from="1764236535870" duration="385000" />
+      <workItem from="1765295578795" duration="86000" />
+      <workItem from="1765295677850" duration="2449000" />
     </task>
     <task id="LOCAL-00001" summary="Erster Push">
       <option name="closed" value="true" />
@@ -231,15 +234,7 @@
       <option name="project" value="LOCAL" />
       <updated>1763233384598</updated>
     </task>
-    <task id="LOCAL-00009" summary="geschwindigkeit von drop geändert">
-      <option name="closed" value="true" />
-      <created>1763990958526</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1763990958526</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,8 +259,377 @@
     <MESSAGE value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt" />
     <MESSAGE value="verlinkung dashboard gefixt" />
     <MESSAGE value="Alles Vereinheitlicht" />
-    <MESSAGE value="geschwindigkeit von drop geändert" />
-    <option name="LAST_COMMIT_MESSAGE" value="geschwindigkeit von drop geändert" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alles Vereinheitlicht" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="Login ist fertig">
+      <change afterPath="$PROJECT_DIR$/code/dashboard/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/admin_fach_hinzufuegen.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/admin_fach_hinzufuegen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/admin_fach_loeschen.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/admin_fach_loeschen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/fach_dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/fach_dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/includes/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/includes/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/setup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/setup.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/unterthema.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/unterthema.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/unterthema_bearbeiten.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/unterthema_bearbeiten.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/unterthemen_hinzufuegen.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/unterthemen_hinzufuegen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/dashboard/unterthemen_loeschen.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/dashboard/unterthemen_loeschen.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/7-ubungsblatter-viewer" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mannmeet04&quot;
+  }
+}</component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;lk3815s&quot;,
+      &quot;fullname&quot;: &quot;Lennart Kaldenbach&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.fh-aachen.de/se/praktikum/ws2526/gruppe-6a-1.git&quot;,
+    &quot;second&quot;: &quot;972abb5f-622f-4241-af8c-12ff6a46f82b&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mannmeet04/SWE.git&quot;,
+    &quot;accountId&quot;: &quot;a82ff94a-a769-4b44-9e80-3a062aae094f&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../Downloads/php-8.4.14-Win32-vs17-x64" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="34Q8MGnWrjo5rOYvoweJcncqbaN" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;PHP Built-in Web Server.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Built-in Web Server.Webseite.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;10-login-fur-lehrer&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/braun/OneDrive - Fachhochschule Aachen/Studium/WS 25_26/SWE/Praktikum/GIT/gruppe-6a-1/code/dashboard/pdf_dateien&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\braun\OneDrive - Fachhochschule Aachen\Studium\WS 25_26\SWE\Praktikum\GIT\gruppe-6a-1\code\dashboard\pdf_dateien" />
+      <recent name="C:\Users\Zakar\Desktop\Uni\3.Semester\DBWT\gruppe-6a-1\code" />
+      <recent name="C:\Users\Zakar\Desktop\Uni\3.Semester\DBWT\gruppe-6a-1\code_test\dashboard\img" />
+      <recent name="C:\Users\Zakar\Desktop\Uni\3.Semester\DBWT\gruppe-6a-1" />
+      <recent name="C:\Users\Zakar\Desktop\Uni\3.Semester\DBWT\gruppe-6a-1\Plannung" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/dashboard" />
+      <recent name="C:\Users\Zakar\Desktop\Uni\3.Semester\DBWT\gruppe-6a-1\code\faecher_dashboards\deutsch_dashboard" />
+      <recent name="C:\Users\lk\PhpstormProjects\gruppe-6a-1\code\faecher_dashboards\mathe_dashboard" />
+      <recent name="C:\Users\lk\PhpstormProjects\gruppe-6a-1\code\testdateien" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.setup.sql">
+    <configuration name="setup.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/code/dashboard/setup.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="Webseite" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="420">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PS-252.26199.163" />
+        <option value="bundled-php-predefined-a98d8de5180a-f0a8ef430dfa-com.jetbrains.php.sharedIndexes-PS-252.26199.163" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="PHP" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b791a8c1-b9ab-4eec-aac6-9b07b17fe100" name="Changes" comment="" />
+      <created>1761134386853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761134386853</updated>
+      <workItem from="1761134388948" duration="1073000" />
+      <workItem from="1761135543429" duration="1891000" />
+      <workItem from="1761206621948" duration="1222000" />
+      <workItem from="1761207945188" duration="3191000" />
+      <workItem from="1761220613816" duration="18000" />
+      <workItem from="1762419544417" duration="2297000" />
+      <workItem from="1762864882327" duration="710000" />
+      <workItem from="1762865913084" duration="683000" />
+      <workItem from="1762973173099" duration="1383000" />
+      <workItem from="1762974610493" duration="281000" />
+      <workItem from="1763032777981" duration="9797000" />
+      <workItem from="1763205914498" duration="2205000" />
+      <workItem from="1763208579214" duration="18603000" />
+      <workItem from="1763371258767" duration="47000" />
+      <workItem from="1763378192973" duration="4817000" />
+      <workItem from="1763394509791" duration="580000" />
+      <workItem from="1763631642708" duration="234000" />
+      <workItem from="1763631966451" duration="142000" />
+      <workItem from="1763632140424" duration="696000" />
+      <workItem from="1763632901366" duration="302000" />
+      <workItem from="1763970099301" duration="8914000" />
+      <workItem from="1764841611349" duration="179000" />
+      <workItem from="1764841795414" duration="50000" />
+      <workItem from="1764841848464" duration="167000" />
+      <workItem from="1764842018096" duration="42000" />
+      <workItem from="1764842062086" duration="122000" />
+      <workItem from="1764847045332" duration="2746000" />
+      <workItem from="1764854370457" duration="7000" />
+      <workItem from="1764862998572" duration="752000" />
+      <workItem from="1764863933472" duration="426000" />
+      <workItem from="1764916244543" duration="586000" />
+      <workItem from="1764925654823" duration="7000" />
+      <workItem from="1764926478811" duration="899000" />
+      <workItem from="1764929519699" duration="360000" />
+      <workItem from="1764929897884" duration="2000" />
+      <workItem from="1764962631592" duration="161000" />
+      <workItem from="1764962809516" duration="1473000" />
+      <workItem from="1765142686311" duration="178000" />
+      <workItem from="1765142881692" duration="39000" />
+    </task>
+    <task id="LOCAL-00001" summary="Erster Push">
+      <option name="closed" value="true" />
+      <created>1761134787719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761134787719</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Erster Push">
+      <option name="closed" value="true" />
+      <created>1761135720993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761135720993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Erster Push">
+      <option name="closed" value="true" />
+      <created>1761206951485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761206951485</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mathe dashboard">
+      <option name="closed" value="true" />
+      <created>1762965092450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762965092450</updated>
+    </task>
+    <task id="LOCAL-00005" summary="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert">
+      <option name="closed" value="true" />
+      <created>1762974466847</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762974466848</updated>
+    </task>
+    <task id="LOCAL-00006" summary="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt">
+      <option name="closed" value="true" />
+      <created>1762974779783</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762974779783</updated>
+    </task>
+    <task id="LOCAL-00007" summary="verlinkung dashboard gefixt">
+      <option name="closed" value="true" />
+      <created>1762976051291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762976051291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Alles Vereinheitlicht">
+      <option name="closed" value="true" />
+      <created>1763233384598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763233384598</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1764841357707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764841357707</updated>
+    </task>
+    <task id="LOCAL-00010" summary="erste umsetzung von login">
+      <option name="closed" value="true" />
+      <created>1764849007611</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764849007611</updated>
+    </task>
+    <task id="LOCAL-00011" summary="log seite fertig">
+      <option name="closed" value="true" />
+      <created>1764849936176</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764849936176</updated>
+    </task>
+    <task id="LOCAL-00012" summary="verbindung aufgebaut und style geändert">
+      <option name="closed" value="true" />
+      <created>1764863593666</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764863593666</updated>
+    </task>
+    <task id="LOCAL-00013" summary="unterstrich beim linken entfernt und alles bei login noch mal die saachen optimiert">
+      <option name="closed" value="true" />
+      <created>1764864350888</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764864350888</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Login ist fertig">
+      <option name="closed" value="true" />
+      <created>1764927501766</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764927501767</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Erster Push" />
+    <MESSAGE value="mathe dashboard" />
+    <MESSAGE value="habe noch mal verlinkt und die leiste verändert. jedoch läuft die verlinkung nicht perfekt" />
+    <MESSAGE value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert" />
+    <MESSAGE value="habe die leiste von, dash, mathe und deutsch, also den dashboard geändert. habe noch mal button für dash erstellt" />
+    <MESSAGE value="verlinkung dashboard gefixt" />
+    <MESSAGE value="Alles Vereinheitlicht" />
+    <MESSAGE value="test" />
+    <MESSAGE value="erste umsetzung von login" />
+    <MESSAGE value="log seite fertig" />
+    <MESSAGE value="verbindung aufgebaut und style geändert" />
+    <MESSAGE value="unterstrich beim linken entfernt und alles bei login noch mal die saachen optimiert" />
+    <MESSAGE value="Login ist fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login ist fertig" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

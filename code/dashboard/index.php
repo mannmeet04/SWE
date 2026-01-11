@@ -1,5 +1,5 @@
 <?php
-// dashboard.php
+// dashboard.php - OHNE JavaScript
 session_start();
 
 if (!isset($_SESSION['angemeldet'])) {
@@ -80,10 +80,10 @@ $conn = null;
                 <span class="user-role">
                     <?php
                     $roleBadge = [
-                            'admin' => 'Administrator',
-                            'lehrer' => 'Lehrer',
-                            'schüler' => 'Schüler',
-                            'guest' => 'Gast'
+                        'admin' => 'Administrator',
+                        'lehrer' => 'Lehrer',
+                        'schüler' => 'Schüler',
+                        'guest' => 'Gast'
                     ];
                     echo $roleBadge[$userRole] ?? 'Gast';
                     ?>
